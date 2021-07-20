@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning Data Science more and more.
 - 🌱 I’m currently working on prepare a portfolio of Data Science projects.
 - 💞️ I’m looking to collaborate on Data Science Projects as professional and as a volunteer to help others and develop my knowledge and skills.
-- 📫 You can reach me at hgmatape@gmail.com
+- 📫 You can reach me at hirammata@gmail.com
 
 <!---
 hmata84/hmata84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
