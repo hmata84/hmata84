@@ -1,8 +1,8 @@
 ### About me
-- 👋 Hi, I’m Hiram Mata, an Engineer with 14 years of experience analyzing data for the Oil & Gas industry, and now a Data Scientist immersed in the Data world.
-- 👀 I’m interested in learning Data Science more and more.
-- 🌱 I’m currently working on prepare a portfolio of Data Science projects.
-- 💞️ I’m looking to collaborate on Data Science Projects as professional and as a volunteer to help others and develop my knowledge and skills.
+- 👋 Hi, I’m Hiram Mata, an Engineer with 14 years of experience analyzing data for the Oil & Gas industry, and now a Data Analyst immersed in the Data world.
+- 👀 I’m interested in learning Data Analytics more and more.
+- 🌱 I’m currently working on a Data Analytics Bootcamp at Thinkful.
+- 💞️ I’m looking to collaborate on Data Analytics Projects as professional and as a volunteer to help others and develop my knowledge and skills.
 - 📫 You can reach me at hirammata@gmail.com
 
 <!---
